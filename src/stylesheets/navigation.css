@@ -1,0 +1,57 @@
+.nav__container {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 1);
+    z-index: 1;
+    height: 56px;
+}
+
+.nav__logo {
+    margin-right: auto;
+    padding: 15px 15px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 24px;
+}
+
+.nav__menu {
+    margin-left: auto;
+    padding: 15px 15px;
+}
+
+.modal__background {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.1);
+    z-index: 2;
+}
+
+.modal__child {
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(82, 82, 82);
+}
+
+.nav__item {
+    padding: 20px 0px 20px 0px;
+    color: rgb(210, 210, 210);
+}
+
+.active {
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffffff;
+}
