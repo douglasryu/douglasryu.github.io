@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5773916b.chunk.css",
+    "main.js": "/static/js/main.02262c88.chunk.js",
+    "main.js.map": "/static/js/main.02262c88.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8a21426.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8a21426.js.map",
+    "static/js/2.bb355059.chunk.js": "/static/js/2.bb355059.chunk.js",
+    "static/js/2.bb355059.chunk.js.map": "/static/js/2.bb355059.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ad8cdaa2c93ef8e71ac64e0056b551f8.js": "/precache-manifest.ad8cdaa2c93ef8e71ac64e0056b551f8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5773916b.chunk.css.map": "/static/css/main.5773916b.chunk.css.map",
+    "static/js/2.bb355059.chunk.js.LICENSE.txt": "/static/js/2.bb355059.chunk.js.LICENSE.txt",
+    "static/media/Ryu_Douglas_resume.pdf": "/static/media/Ryu_Douglas_resume.4a3dde78.pdf",
+    "static/media/elbows_logo.png": "/static/media/elbows_logo.eca492e8.png",
+    "static/media/flash_logo.png": "/static/media/flash_logo.bc895bfe.png",
+    "static/media/justcamp_logo.svg": "/static/media/justcamp_logo.ba2b9ce8.svg",
+    "static/media/profilepic2.jpg": "/static/media/profilepic2.d6f511f9.jpg",
+    "static/media/snowmountain.jpg": "/static/media/snowmountain.4c27eca6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a21426.js",
+    "static/js/2.bb355059.chunk.js",
+    "static/css/main.5773916b.chunk.css",
+    "static/js/main.02262c88.chunk.js"
+  ]
+}
